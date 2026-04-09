@@ -84,6 +84,10 @@ pytest
 | Deep Intense Rock | Storm Runner | 4.96 | genre + mood + energy |
 | Mellow Jazz Lover | Sunday Morning Tea | 4.90 | genre + mood + energy |
 
+![Balanced Mode - Pop and Lofi](screenshots/balanced_pop_lofi.png)
+
+![Balanced Mode - Rock and Jazz](screenshots/balanced_rock_jazz.png)
+
 ### Experiment 2: Scoring Mode Comparison (Pop Fan Profile)
 
 | Mode | #1 Song | #2 Song | Key Observation |
